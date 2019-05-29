@@ -1,1 +1,1 @@
-console.log('Exemples running...');
+console.log('Exemples running gitHub...');
